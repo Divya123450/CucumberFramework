@@ -40,8 +40,8 @@ public class StepDef extends BaseClass {
 		log = LogManager.getLogger("StepDef");
 
 		System.out.println("Setup-Sanity method executed..");
-		System.out.println("Setup-Smoke method executed..");
-		System.out.println("Setup-Regression method executed..");
+		System.out.println("Setup-Smoke Testing method executed..");
+		System.out.println("Setup-Regression Testing method executed..");
 
 		String browser = readConfig.getBrowser();
 		
